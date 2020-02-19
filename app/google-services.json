@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "910688180149",
+    "firebase_url": "https://cambioymoneda.firebaseio.com",
+    "project_id": "cambioymoneda",
+    "storage_bucket": "cambioymoneda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910688180149:android:1df92b669b033da8072bfc",
+        "android_client_info": {
+          "package_name": "com.elioms.testfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910688180149-stvc6ekqpdbv3pddvcn5rhnf3j8b1ipu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elioms.testfirebase",
+            "certificate_hash": "7a792e0c851ce9730fcdc8b3274858d956ccf773"
+          }
+        },
+        {
+          "client_id": "910688180149-99j3quis86tc8ms12advmlkr83mss03m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYcMa3-FJDYBil7rdcxQWVlvEbESt0H6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910688180149-99j3quis86tc8ms12advmlkr83mss03m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
